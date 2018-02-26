@@ -1,5 +1,5 @@
 {
-    "name": "bradmang18/gitelephant",
+    "name": "cypresslab/gitelephant",
     "description": "An abstraction layer for git written in PHP 5.3",
     "keywords": ["git"],
     "homepage": "http://gitelephant.cypresslab.net/",
